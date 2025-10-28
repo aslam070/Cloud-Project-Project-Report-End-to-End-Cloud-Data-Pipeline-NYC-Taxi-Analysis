@@ -1,5 +1,5 @@
 # NYC Green Taxi - End-to-End Azure Data Pipeline & Analysis
-<img width="1109" height="595" alt="image" src="https://github.com/user-attachments/assets/901ad0ac-4e0d-4c50-bb0a-8635ab9564eb" />
+<img width="631" height="582" alt="image" src="https://github.com/user-attachments/assets/53ca4538-c166-4241-815e-d2e2b027956a" />
 
 ## Project Overview
 
@@ -68,6 +68,8 @@ The analysis used the publicly available NYC Green Taxi dataset for 2024, combin
 ---
 
 ## Key Insights (from Dashboard)
+
+<img width="1109" height="595" alt="image" src="https://github.com/user-attachments/assets/901ad0ac-4e0d-4c50-bb0a-8635ab9564eb" />
 
 Analysis of **593K trips** in the final dashboard revealed:
 
